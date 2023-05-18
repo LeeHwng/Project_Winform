@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetLoiNhuan" targetNamespace="http://tempuri.org/DataSetLoiNhuan.xsd" xmlns:mstns="http://tempuri.org/DataSetLoiNhuan.xsd" xmlns="http://tempuri.org/DataSetLoiNhuan.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLCHDTConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLCHDTConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.LeQuocHung_BlackMobile.Properties.Settings.GlobalReference.Default.QLCHDTConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="LoiNhuanNgayTableAdapter" GeneratorDataComponentClassName="LoiNhuanNgayTableAdapter" Name="LoiNhuanNgay" UserDataComponentName="LoiNhuanNgayTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDTConnectionString (Settings)" DbObjectName="QLCHDT.dbo.LoiNhuanNgay" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Ngaymuahang, doanhthu, GiaVon, Loinhuan FROM dbo.LoiNhuanNgay</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Ngaymuahang" DataSetColumn="Ngaymuahang" />
+              <Mapping SourceColumn="doanhthu" DataSetColumn="doanhthu" />
+              <Mapping SourceColumn="GiaVon" DataSetColumn="GiaVon" />
+              <Mapping SourceColumn="Loinhuan" DataSetColumn="Loinhuan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="LoiNhuanQuyTableAdapter" GeneratorDataComponentClassName="LoiNhuanQuyTableAdapter" Name="LoiNhuanQuy" UserDataComponentName="LoiNhuanQuyTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDTConnectionString (Settings)" DbObjectName="QLCHDT.dbo.LoiNhuanQuy" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT QUY, doanhthu, GiaVon, Loinhuan FROM dbo.LoiNhuanQuy</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="QUY" DataSetColumn="QUY" />
+              <Mapping SourceColumn="doanhthu" DataSetColumn="doanhthu" />
+              <Mapping SourceColumn="GiaVon" DataSetColumn="GiaVon" />
+              <Mapping SourceColumn="Loinhuan" DataSetColumn="Loinhuan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="LoiNhuanThangTableAdapter" GeneratorDataComponentClassName="LoiNhuanThangTableAdapter" Name="LoiNhuanThang" UserDataComponentName="LoiNhuanThangTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDTConnectionString (Settings)" DbObjectName="QLCHDT.dbo.LoiNhuanThang" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT thang, doanhthu, GiaVon, Loinhuan FROM dbo.LoiNhuanThang</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="thang" DataSetColumn="thang" />
+              <Mapping SourceColumn="doanhthu" DataSetColumn="doanhthu" />
+              <Mapping SourceColumn="GiaVon" DataSetColumn="GiaVon" />
+              <Mapping SourceColumn="Loinhuan" DataSetColumn="Loinhuan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="LoiNhuanSanphamTableAdapter" GeneratorDataComponentClassName="LoiNhuanSanphamTableAdapter" Name="LoiNhuanSanpham" UserDataComponentName="LoiNhuanSanphamTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDTConnectionString (Settings)" DbObjectName="QLCHDT.dbo.LoiNhuanSanpham" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Mahang, Tenhang, doanhthu, GiaVon, Loinhuan FROM dbo.LoiNhuanSanpham</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Mahang" DataSetColumn="Mahang" />
+              <Mapping SourceColumn="Tenhang" DataSetColumn="Tenhang" />
+              <Mapping SourceColumn="doanhthu" DataSetColumn="doanhthu" />
+              <Mapping SourceColumn="GiaVon" DataSetColumn="GiaVon" />
+              <Mapping SourceColumn="Loinhuan" DataSetColumn="Loinhuan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="LoiNhuanKhachHangTableAdapter" GeneratorDataComponentClassName="LoiNhuanKhachHangTableAdapter" Name="LoiNhuanKhachHang" UserDataComponentName="LoiNhuanKhachHangTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDTConnectionString (Settings)" DbObjectName="QLCHDT.dbo.LoiNhuanKhachHang" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Makhachhang, doanhthu, GiaVon, Loinhuan FROM dbo.LoiNhuanKhachHang</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Makhachhang" DataSetColumn="Makhachhang" />
+              <Mapping SourceColumn="doanhthu" DataSetColumn="doanhthu" />
+              <Mapping SourceColumn="GiaVon" DataSetColumn="GiaVon" />
+              <Mapping SourceColumn="Loinhuan" DataSetColumn="Loinhuan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="LoiNhuanNamTableAdapter" GeneratorDataComponentClassName="LoiNhuanNamTableAdapter" Name="LoiNhuanNam" UserDataComponentName="LoiNhuanNamTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDTConnectionString (Settings)" DbObjectName="QLCHDT.dbo.LoiNhuanNam" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Nam, doanhthu, GiaVon, Loinhuan FROM dbo.LoiNhuanNam</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Nam" DataSetColumn="Nam" />
+              <Mapping SourceColumn="doanhthu" DataSetColumn="doanhthu" />
+              <Mapping SourceColumn="GiaVon" DataSetColumn="GiaVon" />
+              <Mapping SourceColumn="Loinhuan" DataSetColumn="Loinhuan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetLoiNhuan" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetLoiNhuan" msprop:Generator_UserDSName="DataSetLoiNhuan">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="LoiNhuanNgay" msprop:Generator_TableClassName="LoiNhuanNgayDataTable" msprop:Generator_TableVarName="tableLoiNhuanNgay" msprop:Generator_RowChangedName="LoiNhuanNgayRowChanged" msprop:Generator_TablePropName="LoiNhuanNgay" msprop:Generator_RowDeletingName="LoiNhuanNgayRowDeleting" msprop:Generator_RowChangingName="LoiNhuanNgayRowChanging" msprop:Generator_RowEvHandlerName="LoiNhuanNgayRowChangeEventHandler" msprop:Generator_RowDeletedName="LoiNhuanNgayRowDeleted" msprop:Generator_RowClassName="LoiNhuanNgayRow" msprop:Generator_UserTableName="LoiNhuanNgay" msprop:Generator_RowEvArgName="LoiNhuanNgayRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Ngaymuahang" msprop:Generator_ColumnVarNameInTable="columnNgaymuahang" msprop:Generator_ColumnPropNameInRow="Ngaymuahang" msprop:Generator_ColumnPropNameInTable="NgaymuahangColumn" msprop:Generator_UserColumnName="Ngaymuahang" type="xs:dateTime" />
+              <xs:element name="doanhthu" msprop:Generator_ColumnVarNameInTable="columndoanhthu" msprop:Generator_ColumnPropNameInRow="doanhthu" msprop:Generator_ColumnPropNameInTable="doanhthuColumn" msprop:Generator_UserColumnName="doanhthu" type="xs:double" minOccurs="0" />
+              <xs:element name="GiaVon" msprop:Generator_ColumnVarNameInTable="columnGiaVon" msprop:Generator_ColumnPropNameInRow="GiaVon" msprop:Generator_ColumnPropNameInTable="GiaVonColumn" msprop:Generator_UserColumnName="GiaVon" type="xs:double" minOccurs="0" />
+              <xs:element name="Loinhuan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnLoinhuan" msprop:Generator_ColumnPropNameInRow="Loinhuan" msprop:Generator_ColumnPropNameInTable="LoinhuanColumn" msprop:Generator_UserColumnName="Loinhuan" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="LoiNhuanQuy" msprop:Generator_TableClassName="LoiNhuanQuyDataTable" msprop:Generator_TableVarName="tableLoiNhuanQuy" msprop:Generator_RowChangedName="LoiNhuanQuyRowChanged" msprop:Generator_TablePropName="LoiNhuanQuy" msprop:Generator_RowDeletingName="LoiNhuanQuyRowDeleting" msprop:Generator_RowChangingName="LoiNhuanQuyRowChanging" msprop:Generator_RowEvHandlerName="LoiNhuanQuyRowChangeEventHandler" msprop:Generator_RowDeletedName="LoiNhuanQuyRowDeleted" msprop:Generator_RowClassName="LoiNhuanQuyRow" msprop:Generator_UserTableName="LoiNhuanQuy" msprop:Generator_RowEvArgName="LoiNhuanQuyRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="QUY" msprop:Generator_ColumnVarNameInTable="columnQUY" msprop:Generator_ColumnPropNameInRow="QUY" msprop:Generator_ColumnPropNameInTable="QUYColumn" msprop:Generator_UserColumnName="QUY" type="xs:int" minOccurs="0" />
+              <xs:element name="doanhthu" msprop:Generator_ColumnVarNameInTable="columndoanhthu" msprop:Generator_ColumnPropNameInRow="doanhthu" msprop:Generator_ColumnPropNameInTable="doanhthuColumn" msprop:Generator_UserColumnName="doanhthu" type="xs:double" minOccurs="0" />
+              <xs:element name="GiaVon" msprop:Generator_ColumnVarNameInTable="columnGiaVon" msprop:Generator_ColumnPropNameInRow="GiaVon" msprop:Generator_ColumnPropNameInTable="GiaVonColumn" msprop:Generator_UserColumnName="GiaVon" type="xs:double" minOccurs="0" />
+              <xs:element name="Loinhuan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnLoinhuan" msprop:Generator_ColumnPropNameInRow="Loinhuan" msprop:Generator_ColumnPropNameInTable="LoinhuanColumn" msprop:Generator_UserColumnName="Loinhuan" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="LoiNhuanThang" msprop:Generator_TableClassName="LoiNhuanThangDataTable" msprop:Generator_TableVarName="tableLoiNhuanThang" msprop:Generator_RowChangedName="LoiNhuanThangRowChanged" msprop:Generator_TablePropName="LoiNhuanThang" msprop:Generator_RowDeletingName="LoiNhuanThangRowDeleting" msprop:Generator_RowChangingName="LoiNhuanThangRowChanging" msprop:Generator_RowEvHandlerName="LoiNhuanThangRowChangeEventHandler" msprop:Generator_RowDeletedName="LoiNhuanThangRowDeleted" msprop:Generator_RowClassName="LoiNhuanThangRow" msprop:Generator_UserTableName="LoiNhuanThang" msprop:Generator_RowEvArgName="LoiNhuanThangRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="thang" msprop:Generator_ColumnVarNameInTable="columnthang" msprop:Generator_ColumnPropNameInRow="thang" msprop:Generator_ColumnPropNameInTable="thangColumn" msprop:Generator_UserColumnName="thang" type="xs:int" minOccurs="0" />
+              <xs:element name="doanhthu" msprop:Generator_ColumnVarNameInTable="columndoanhthu" msprop:Generator_ColumnPropNameInRow="doanhthu" msprop:Generator_ColumnPropNameInTable="doanhthuColumn" msprop:Generator_UserColumnName="doanhthu" type="xs:double" minOccurs="0" />
+              <xs:element name="GiaVon" msprop:Generator_ColumnVarNameInTable="columnGiaVon" msprop:Generator_ColumnPropNameInRow="GiaVon" msprop:Generator_ColumnPropNameInTable="GiaVonColumn" msprop:Generator_UserColumnName="GiaVon" type="xs:double" minOccurs="0" />
+              <xs:element name="Loinhuan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnLoinhuan" msprop:Generator_ColumnPropNameInRow="Loinhuan" msprop:Generator_ColumnPropNameInTable="LoinhuanColumn" msprop:Generator_UserColumnName="Loinhuan" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="LoiNhuanSanpham" msprop:Generator_TableClassName="LoiNhuanSanphamDataTable" msprop:Generator_TableVarName="tableLoiNhuanSanpham" msprop:Generator_RowChangedName="LoiNhuanSanphamRowChanged" msprop:Generator_TablePropName="LoiNhuanSanpham" msprop:Generator_RowDeletingName="LoiNhuanSanphamRowDeleting" msprop:Generator_RowChangingName="LoiNhuanSanphamRowChanging" msprop:Generator_RowEvHandlerName="LoiNhuanSanphamRowChangeEventHandler" msprop:Generator_RowDeletedName="LoiNhuanSanphamRowDeleted" msprop:Generator_RowClassName="LoiNhuanSanphamRow" msprop:Generator_UserTableName="LoiNhuanSanpham" msprop:Generator_RowEvArgName="LoiNhuanSanphamRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Mahang" msprop:Generator_ColumnVarNameInTable="columnMahang" msprop:Generator_ColumnPropNameInRow="Mahang" msprop:Generator_ColumnPropNameInTable="MahangColumn" msprop:Generator_UserColumnName="Mahang">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tenhang" msprop:Generator_ColumnVarNameInTable="columnTenhang" msprop:Generator_ColumnPropNameInRow="Tenhang" msprop:Generator_ColumnPropNameInTable="TenhangColumn" msprop:Generator_UserColumnName="Tenhang">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="doanhthu" msprop:Generator_ColumnVarNameInTable="columndoanhthu" msprop:Generator_ColumnPropNameInRow="doanhthu" msprop:Generator_ColumnPropNameInTable="doanhthuColumn" msprop:Generator_UserColumnName="doanhthu" type="xs:double" minOccurs="0" />
+              <xs:element name="GiaVon" msprop:Generator_ColumnVarNameInTable="columnGiaVon" msprop:Generator_ColumnPropNameInRow="GiaVon" msprop:Generator_ColumnPropNameInTable="GiaVonColumn" msprop:Generator_UserColumnName="GiaVon" type="xs:double" minOccurs="0" />
+              <xs:element name="Loinhuan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnLoinhuan" msprop:Generator_ColumnPropNameInRow="Loinhuan" msprop:Generator_ColumnPropNameInTable="LoinhuanColumn" msprop:Generator_UserColumnName="Loinhuan" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="LoiNhuanKhachHang" msprop:Generator_TableClassName="LoiNhuanKhachHangDataTable" msprop:Generator_TableVarName="tableLoiNhuanKhachHang" msprop:Generator_RowChangedName="LoiNhuanKhachHangRowChanged" msprop:Generator_TablePropName="LoiNhuanKhachHang" msprop:Generator_RowDeletingName="LoiNhuanKhachHangRowDeleting" msprop:Generator_RowChangingName="LoiNhuanKhachHangRowChanging" msprop:Generator_RowEvHandlerName="LoiNhuanKhachHangRowChangeEventHandler" msprop:Generator_RowDeletedName="LoiNhuanKhachHangRowDeleted" msprop:Generator_RowClassName="LoiNhuanKhachHangRow" msprop:Generator_UserTableName="LoiNhuanKhachHang" msprop:Generator_RowEvArgName="LoiNhuanKhachHangRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Makhachhang" msprop:Generator_ColumnVarNameInTable="columnMakhachhang" msprop:Generator_ColumnPropNameInRow="Makhachhang" msprop:Generator_ColumnPropNameInTable="MakhachhangColumn" msprop:Generator_UserColumnName="Makhachhang">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="doanhthu" msprop:Generator_ColumnVarNameInTable="columndoanhthu" msprop:Generator_ColumnPropNameInRow="doanhthu" msprop:Generator_ColumnPropNameInTable="doanhthuColumn" msprop:Generator_UserColumnName="doanhthu" type="xs:double" minOccurs="0" />
+              <xs:element name="GiaVon" msprop:Generator_ColumnVarNameInTable="columnGiaVon" msprop:Generator_ColumnPropNameInRow="GiaVon" msprop:Generator_ColumnPropNameInTable="GiaVonColumn" msprop:Generator_UserColumnName="GiaVon" type="xs:double" minOccurs="0" />
+              <xs:element name="Loinhuan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnLoinhuan" msprop:Generator_ColumnPropNameInRow="Loinhuan" msprop:Generator_ColumnPropNameInTable="LoinhuanColumn" msprop:Generator_UserColumnName="Loinhuan" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="LoiNhuanNam" msprop:Generator_TableClassName="LoiNhuanNamDataTable" msprop:Generator_TableVarName="tableLoiNhuanNam" msprop:Generator_TablePropName="LoiNhuanNam" msprop:Generator_RowDeletingName="LoiNhuanNamRowDeleting" msprop:Generator_RowChangingName="LoiNhuanNamRowChanging" msprop:Generator_RowEvHandlerName="LoiNhuanNamRowChangeEventHandler" msprop:Generator_RowDeletedName="LoiNhuanNamRowDeleted" msprop:Generator_UserTableName="LoiNhuanNam" msprop:Generator_RowChangedName="LoiNhuanNamRowChanged" msprop:Generator_RowEvArgName="LoiNhuanNamRowChangeEvent" msprop:Generator_RowClassName="LoiNhuanNamRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nam" msprop:Generator_ColumnVarNameInTable="columnNam" msprop:Generator_ColumnPropNameInRow="Nam" msprop:Generator_ColumnPropNameInTable="NamColumn" msprop:Generator_UserColumnName="Nam" type="xs:int" minOccurs="0" />
+              <xs:element name="doanhthu" msprop:Generator_ColumnVarNameInTable="columndoanhthu" msprop:Generator_ColumnPropNameInRow="doanhthu" msprop:Generator_ColumnPropNameInTable="doanhthuColumn" msprop:Generator_UserColumnName="doanhthu" type="xs:double" minOccurs="0" />
+              <xs:element name="GiaVon" msprop:Generator_ColumnVarNameInTable="columnGiaVon" msprop:Generator_ColumnPropNameInRow="GiaVon" msprop:Generator_ColumnPropNameInTable="GiaVonColumn" msprop:Generator_UserColumnName="GiaVon" type="xs:double" minOccurs="0" />
+              <xs:element name="Loinhuan" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnLoinhuan" msprop:Generator_ColumnPropNameInRow="Loinhuan" msprop:Generator_ColumnPropNameInTable="LoinhuanColumn" msprop:Generator_UserColumnName="Loinhuan" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:LoiNhuanSanpham" />
+      <xs:field xpath="mstns:Mahang" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

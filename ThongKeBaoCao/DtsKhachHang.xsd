@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DtsKhachHang" targetNamespace="http://tempuri.org/DtsKhachHang.xsd" xmlns:mstns="http://tempuri.org/DtsKhachHang.xsd" xmlns="http://tempuri.org/DtsKhachHang.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLCHDTConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLCHDTConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.LeQuocHung_BlackMobile.Properties.Settings.GlobalReference.Default.QLCHDTConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="KhachHangVipTableAdapter" GeneratorDataComponentClassName="KhachHangVipTableAdapter" Name="KhachHangVip" UserDataComponentName="KhachHangVipTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLCHDTConnectionString (Settings)" DbObjectName="QLCHDT.dbo.KhachHangVip" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Makhachhang, Tenkhachhang, NAM FROM dbo.KhachHangVip</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Makhachhang" DataSetColumn="Makhachhang" />
+              <Mapping SourceColumn="Tenkhachhang" DataSetColumn="Tenkhachhang" />
+              <Mapping SourceColumn="NAM" DataSetColumn="NAM" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DtsKhachHang" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DtsKhachHang" msprop:Generator_UserDSName="DtsKhachHang">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="KhachHangVip" msprop:Generator_TableClassName="KhachHangVipDataTable" msprop:Generator_TableVarName="tableKhachHangVip" msprop:Generator_TablePropName="KhachHangVip" msprop:Generator_RowDeletingName="KhachHangVipRowDeleting" msprop:Generator_RowChangingName="KhachHangVipRowChanging" msprop:Generator_RowEvHandlerName="KhachHangVipRowChangeEventHandler" msprop:Generator_RowDeletedName="KhachHangVipRowDeleted" msprop:Generator_UserTableName="KhachHangVip" msprop:Generator_RowChangedName="KhachHangVipRowChanged" msprop:Generator_RowEvArgName="KhachHangVipRowChangeEvent" msprop:Generator_RowClassName="KhachHangVipRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Makhachhang" msprop:Generator_ColumnVarNameInTable="columnMakhachhang" msprop:Generator_ColumnPropNameInRow="Makhachhang" msprop:Generator_ColumnPropNameInTable="MakhachhangColumn" msprop:Generator_UserColumnName="Makhachhang">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tenkhachhang" msprop:Generator_ColumnVarNameInTable="columnTenkhachhang" msprop:Generator_ColumnPropNameInRow="Tenkhachhang" msprop:Generator_ColumnPropNameInTable="TenkhachhangColumn" msprop:Generator_UserColumnName="Tenkhachhang">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NAM" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnNAM" msprop:Generator_ColumnPropNameInRow="NAM" msprop:Generator_ColumnPropNameInTable="NAMColumn" msprop:Generator_UserColumnName="NAM" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:KhachHangVip" />
+      <xs:field xpath="mstns:Makhachhang" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

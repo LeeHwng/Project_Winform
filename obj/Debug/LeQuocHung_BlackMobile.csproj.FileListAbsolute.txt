@@ -1,0 +1,185 @@
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\LeQuocHung_BlackMobile.exe.config
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\LeQuocHung_BlackMobile.exe
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\LeQuocHung_BlackMobile.pdb
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\DevComponents.DotNetBar2.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\DevComponents.DotNetBar2.xml
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.HeThong.Login.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.Properties.Resources.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.GenerateResource.cache
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.CoreCompileInputs.cache
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.CopyComplete
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.exe
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.pdb
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLKH.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLNV.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLHD.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLLH.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLMH.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLNCC.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.HeThong.QLTK.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.BLACK_MOBILE.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKKH.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKNV.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKLH.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.AssemblyReference.cache
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKCTHD.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKHD.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKMH.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKNCC.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLCTHD.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\EnvDTE.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\stdole.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\Microsoft.MSXML.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.UserBlackMobile.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\RdlCompile.cache
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\RdlCompile.compiled
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormDoanhThu.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormLoiNhuan.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormSanPham.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormNhanVien.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormKhachHang.resources
+D:\1.Cô Lan\BlackMobile\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.HeThong.TacGia.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\LeQuocHung_BlackMobile.exe.config
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\LeQuocHung_BlackMobile.exe
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\LeQuocHung_BlackMobile.pdb
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\EnvDTE.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\stdole.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\Microsoft.MSXML.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.AssemblyReference.cache
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.SuggestedBindingRedirects.cache
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.BLACK_MOBILE.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.HeThong.Login.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.HeThong.QLTK.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.HeThong.TacGia.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.Properties.Resources.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLCTHD.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLHD.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLMH.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLKH.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLLH.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLNCC.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.QuanLy.QLNV.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormDoanhThu.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormKhachHang.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormLoiNhuan.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormNhanVien.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.ThongKeBaoCao.FormSanPham.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKCTHD.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKHD.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKKH.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKLH.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKMH.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKNCC.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.TimKim.TKNV.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.UserBlackMobile.resources
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.GenerateResource.cache
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.CoreCompileInputs.cache
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.csproj.CopyComplete
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.exe
+D:\Lê Quốc Hưng Nộp Môn XDPMQLBH\Lê Quốc Hưng - Project\LeQuocHung_BlackMobile\obj\Debug\LeQuocHung_BlackMobile.pdb
